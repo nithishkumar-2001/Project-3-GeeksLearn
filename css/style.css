@@ -105,6 +105,11 @@ body {
 .cursor{
     cursor: no-drop !important;
 }
+.inline{
+    display: inline;
+    align-items: center;
+    border: 2px solid red;
+}
 
 
 @media(max-width:992px) {
