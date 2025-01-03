@@ -34,7 +34,7 @@ body {
 .textcolor2 {
     color: blueviolet;
     font-size: medium;
-    transition: transform 0.8s;
+    transition: all 0.8s;
 }
 
 .textcolor2:hover {
